@@ -2,6 +2,10 @@
 
 ##### 仿今日头条BottomNavigationBar+TabBar
 
+##### 效果图
+
+![img](https://github.com/sfy666666/TabBar/blob/master/lib/images/preview.gif)
+
 
 ## Getting Started
 
